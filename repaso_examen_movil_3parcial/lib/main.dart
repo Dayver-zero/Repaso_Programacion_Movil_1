@@ -26,10 +26,10 @@ class ExamenFlutter extends StatelessWidget {
         foregroundColor: Colors.white,
       ),
       body: Center(
-        // 👈 Esto centra todo horizontal y verticalmente
+        //Esto centra todo horizontal y verticalmente
         child: Column(
           mainAxisSize:
-              MainAxisSize.min, // 👈 Evita que la columna use todo el alto
+              MainAxisSize.min, //Evita que la columna use todo el alto
           children: [
             // Imagen
             Container(
